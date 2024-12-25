@@ -1,0 +1,6 @@
+@MigratorDb_HostAddress = http://localhost:5193
+
+GET {{MigratorDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
